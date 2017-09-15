@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0347c3b1a90b067408bedfa46ec071c4
+timeCreated: 1504179839
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blenda Script
+  fontNames:
+  - Blenda Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74f3c30902b59c44aaaa3d95f42957e3, type: 3}
+  - {fileID: 12800000, guid: 6b311eeef7ea7284aa3dd96fc42e819a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
